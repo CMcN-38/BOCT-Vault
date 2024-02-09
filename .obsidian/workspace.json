@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "2070eb5da29a599b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3391f0dfbfe9fec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f100d2e639d7e85",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aec1c23cec4e52d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b7804a09a8bf6fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4f4c6f8a2fc6644",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfafa560641edbec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96e6af935a0c4dfc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3971e5d44fa7ad12",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f5e200e54d37196",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd42e6f19ef0ece9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54b6b0e10b940f8c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c40b01a1cb2d2d9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8dfb04f572ad2e6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4f100d2e639d7e85",
+  "lastOpenFiles": [
+    "README.md",
+    "README.md.md",
+    "Characters/Village Idiot.md",
+    "Characters/Kazali.md",
+    "Characters/Recluse.md",
+    "00-meta/char-template.md",
+    "Characters/Djinn.md",
+    "Characters/Storm Catcher.md",
+    "Characters/Buddhist.md",
+    "Characters/Hell's Librarian.md",
+    "Characters/Duchess.md",
+    "Characters/Angel.md",
+    "Characters/Revolutionary.md",
+    "Characters/Fiddler.md",
+    "Characters/Toymaker.md",
+    "Characters/Doomsayer.md",
+    "Characters/Fibbin.md",
+    "Characters/Sentinel.md",
+    "Characters/Spirit of Ivory.md",
+    "Characters/Ferryman.md",
+    "Characters/Bootlegger.md",
+    "Characters/Gardener.md",
+    "Characters/Harlot.md",
+    "Characters/Judge.md",
+    "Characters/Beggar.md",
+    "Characters/Gangster.md",
+    "Characters",
+    "00-meta",
+    "Scripts"
+  ]
+}
